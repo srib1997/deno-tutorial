@@ -9,3 +9,9 @@
 第一天就在電腦安裝了 Deno 的環境和試了 Hello World!
 
 [Youtube 教學](https://youtu.be/1f2XxAtO4ME)
+
+## Day 02
+
+第二天利用 Deno 讀取和建立檔案
+
+[Youtube 教學](https://youtu.be/LYiEOI2cfM8)
